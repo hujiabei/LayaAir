@@ -7,3 +7,4 @@ add branch
 add a new branch
 create a new branch
 new change
+stash
