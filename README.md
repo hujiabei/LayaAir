@@ -8,3 +8,4 @@ add a new branch
 create a new branch
 new change and fixed it .
 stash
+test hujiabei's mbp
